@@ -66,6 +66,8 @@ HOW TO RUN IN POSTMAN
       "arrivalTime": "2023-04-30T10:15:30"
     }
   NOTE: Please take note of the format of the departuretime and arrival time if the format is not the same as the above it will return bad request exception
+  ![image](https://user-images.githubusercontent.com/60128761/196397793-782e7870-2e91-4e21-9d96-fed577cac2c5.png)
+
   
 All API returns this http code
 200 - ok 
